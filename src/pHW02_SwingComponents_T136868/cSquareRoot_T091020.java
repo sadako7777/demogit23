@@ -1,6 +1,6 @@
 package pHW02_SwingComponents_T136868;
 
-import javax.swing.JFrame;
+import java Scanner ;
 
 public class cSquareRoot_T091020 extends JFrame {
 
